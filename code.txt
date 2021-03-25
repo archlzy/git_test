@@ -5,4 +5,4 @@ Git has a mutable index called stage.
 
 add one line in dev branch.
 
-add one line in master branch.
+add one line in both master and test branch.
